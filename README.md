@@ -8,6 +8,7 @@ This application support the [Getting Started with Python on Heroku](https://dev
 
 ## Running Locally
 
+
 Make sure you have Python [installed properly](http://install.python-guide.org).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
